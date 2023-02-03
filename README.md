@@ -9,7 +9,6 @@ Building a predictive model to understand factors that influence buying behaviou
 * We will manipulate and prepare the customer_booking.csv file to build a high-quality predictive model.
 
 ### Relevant libraries:
-# IMPORTING RELEVANT LIBRARIES
 
 `numpy` `pandas` `matplotlib.pyplot` `seaborn`
 `sklearn`
